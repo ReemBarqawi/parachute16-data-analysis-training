@@ -1,3 +1,4 @@
+```
 Student Performance/
 │
 ├── Assets/                           # Images & media used in the project
@@ -18,7 +19,8 @@ Student Performance/
 │       ├── performance.xlsx
 │       └── students.xlsx
 │
-├── Excel-File/                       # Main analysis & Excel outputs
+└── Excel-File/                       # Main analysis & Excel outputs
     ├── Student performance.xlsx      # Full Excel project (data model + pivots + charts)
     └── Dashboard Insights.md         # Written insights extracted from the dashboard visuals
 
+```
