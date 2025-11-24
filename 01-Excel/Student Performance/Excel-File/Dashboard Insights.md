@@ -5,7 +5,7 @@ This document summarizes the key insights extracted from the **Student Performan
 <p align="center">
   <img src="../Assets/Student Performance-Dashboard.png" alt="Student Performance Dashboard" width="90%">
 </p>
----
+
 
 ## 🔥 1. Key Performance Indicators (KPIs)
 
