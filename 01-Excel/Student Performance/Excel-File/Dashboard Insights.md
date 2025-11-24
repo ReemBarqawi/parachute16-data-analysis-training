@@ -2,10 +2,6 @@
 
 This document summarizes the key insights extracted from the **Student Performance Dashboard**, built using cleaned datasets and Excel PivotTables.
 
-## 📊 Student Performance Dashboard
-
-Below is the final dashboard built from the cleaned datasets:
-
 <p align="center">
   <img src="../Assets/Student Performance-Dashboard.png" alt="Student Performance Dashboard" width="90%">
 </p>
