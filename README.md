@@ -8,7 +8,6 @@
 A structured learning repository documenting my journey in the 
 <strong>Parachute16 Data Analysis Training Program</strong>.
 <br>
-A structured learning repository documenting my journey in the Parachute16 Data Analysis Training Program.
 
 This training is part of the Youth Growth & Advancement (YGA) Project, an employment-focused training program funded by the U.S. Government and implemented by Q2IMPACT in collaboration with Parachute16.
 
