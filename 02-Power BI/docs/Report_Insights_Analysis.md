@@ -10,7 +10,7 @@ Each section begins with the corresponding dashboard screenshot for visual conte
 ![Overview Dashboard](../assets/dashboard/01_overview.png)
 
 The Overview page provides a holistic look at the organization’s workforce.  
-According to the dashboard (page 1), the company employs **1.47K individuals**, with an average age of **37**, indicating a balanced mix of junior and mid-career employees.
+According to Overview page, the company employs **1.47K individuals**, with an average age of **37**, indicating a balanced mix of junior and mid-career employees.
 
 The age distribution reveals that the largest employee segment falls between **31–35 years**, followed closely by **26–30** and **36–40**, reflecting an experienced workforce with strong operational capacity.
 
@@ -95,7 +95,7 @@ For example:
 
 Work-life balance distribution highlights that most employees are rated at level **3** (893 individuals), but attrition varies heavily by job role.
 
-**Overtime significantly reduces satisfaction**, with employees working overtime showing lower environment and job satisfaction scores, signaling workload imbalance.
+**Overtime significantly reduces satisfaction**, Contrary to common expectations, employees who work overtime report marginally higher job and environment satisfaction compared to those who do not. This may indicate that overtime is performed by employees who are more engaged, more committed, or hold roles they enjoy, rather than experiencing overload.
 
 Job role scatterplot shows that even roles with similar work-life balance scores experience different attrition levels, emphasizing that role demands—not just balance—shape retention risk.
 
@@ -115,20 +115,19 @@ This gap indicates a right-skewed distribution driven by higher earners.
 
 The **Sales department is the highest-paying**, followed by Human Resources and R&D.
 
-The **Gender Salary Gap is –5%**, meaning women slightly out-earn men—an uncommon but positive equity marker.
+The **Gender Salary Gap is –5%**, meaning women slightly out-earn men an uncommon but positive equity marker.
 
 **Salary Competitiveness = 0.76**, indicating the company may pay below the market rate in several roles, likely affecting attrition in lower salary bands.
 
-The Salary Growth Curve shows strong progression up to **20–25 years**, then fluctuates—possibly due to salary cap effects or uneven raise cycles.
+The Salary Growth Curve shows strong progression up to **20–25 years**, then fluctuates possibly due to salary cap effects or uneven raise cycles.
 
 Education level strongly impacts pay:
 - Level 5 education corresponds to **8.3K**,  
 - Level 1 education correlates with **5.6K**.
 
-Performance ratings remain relatively stable across salary bands, meaning salary alone does not dictate performance.
+Despite expectations that higher performance should correlate with higher compensation, the data shows no clear alignment between salary and performance. Employees in lower salary bands demonstrate equal or even higher performance compared to those earning more.
 
-Collectively, compensation insights point to the importance of market alignment and improved pay structures to reduce turnover.
-
+Such misalignment can reduce motivation among strong performers and may be a key driver behind the elevated attrition rates identified in earlier pages of the dashboard.
 ---
 
 # 5️⃣ Final Consolidated Summary

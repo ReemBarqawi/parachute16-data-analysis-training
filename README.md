@@ -8,18 +8,22 @@
 A structured learning repository documenting my journey in the 
 <strong>Parachute16 Data Analysis Training Program</strong>.
 <br>
-This repo includes practice files, cleaned datasets, dashboards, and all exercises completed throughout the training roadmap.
+A structured learning repository documenting my journey in the Parachute16 Data Analysis Training Program.
+
+This training is part of the Youth Growth & Advancement (YGA) Project, an employment-focused training program funded by the U.S. Government and implemented by Q2IMPACT in collaboration with Parachute16.
+
+This repository includes practice files, cleaned datasets, dashboards, and all exercises completed throughout the training roadmap.
 </p>
 
 ---
 
-## 📘 Roadmap Covered in This Training
+### 📚 Training Learning Path  
 
-The training follows a clear data-analysis learning path:
+The training follows a structured data-analysis learning path:  
 
-- **Excel** → Data cleaning, transformation & analysis  
-- **SQL** → Querying, joining & structuring relational data  
-- **Power BI** → Building dynamic dashboards & insights  
-- **Python for Data Analysis** → Pandas, NumPy & visualization  
+1. **Excel** → Data cleaning, transformation, and exploratory analysis  
+2. **Power BI** → Building interactive dashboards, KPIs, and business insights  
+3. **SQL** → Querying, joining, and structuring relational data  
+4. **Python for Data Analysis** → Pandas, NumPy, and data visualization  
 
 ---

@@ -1,4 +1,4 @@
-# HR Employee Insights – Power BI Dashboard
+
 
 <p align="center">
   <img src="assets/logo.png" alt="Logo" width="140"/>
@@ -45,15 +45,17 @@ HR-Employee-Insights-Dashboard/
 │   │   └── 04_salary_compensation.png
 │   │
 │   └── wallpapers/
-│       ├── page1.svg
-│       ├── page2.svg
-│       └── page3.svg
+│       ├── page1.png
+│       ├── page2.png
+│       ├── page3.png
+│       └── page4.png
+│
 │
 ├── data/
-│   ├── HR_EmployeeInfo.csv
-│   ├── HR_Performance.csv
-│   ├── HR_Satisfaction.csv
-│   └── HR_MasterDataset.csv
+│   ├── data.csv promomtion.csv
+│   ├── data.csv Retrenchment.csv
+│   ├── HR Analytics Data.csv
+│   └── HR employee data.csv
 │
 ├── docs/
 │   └── Report_Insights_Analysis.md
